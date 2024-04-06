@@ -36,11 +36,14 @@ Before stating the ML model training, the data is split into 80-20 i.e., 8000 tr
 This data set comes under classification problem, as the input URL is classified as phishing (1) or legitimate (0). The supervised machine learning models (classification) considered to train the dataset in this project are:
 
 1.Decision Tree
+
 2.Random Forest
+
 3.Multilayer Perceptrons
+
 4.XGBoost
 
-All these models are trained on the dataset and evaluation of the model is done with the test dataset
+All these models are trained on the dataset and evaluation of the model is done with the test dataset detection.ipynb
 
 ## FrontEnd
 
