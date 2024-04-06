@@ -1,4 +1,4 @@
-Phishing Domain Detector
+**Phishing Domain Detector**
 Overview
 This repository contains a phishing domain detector created using machine learning techniques. The detector aims to identify malicious URLs commonly associated with phishing attacks.
 
