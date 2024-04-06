@@ -3,8 +3,6 @@
 
 A Full-Stack Machine Learning Project
 
-
-
 ## Objective
 
 A phishing website is a common social engineering method that mimics trustful uniform resource locators (URLs) and webpages. The objective of this project is to train machine learning models and deep neural nets on the dataset created to predict phishing websites. Both phishing and benign URLs of websites are gathered to form a dataset and from them required URL and website content-based features are extracted. The performance level of each model is measures and compared.
@@ -38,16 +36,11 @@ Before stating the ML model training, the data is split into 80-20 i.e., 8000 tr
 This data set comes under classification problem, as the input URL is classified as phishing (1) or legitimate (0). The supervised machine learning models (classification) considered to train the dataset in this project are:
 
 1.Decision Tree
-
 2.Random Forest
-
 3.Multilayer Perceptrons
-
 4.XGBoost
 
-
 All these models are trained on the dataset and evaluation of the model is done with the test dataset
-
 
 ## FrontEnd
 
@@ -58,7 +51,6 @@ Check the front end file [Templates](https://github.com/Ksrinivas2304/Phishing-D
 
 Refer this PPT to understand clearly 
 [Presentation](https://github.com/Ksrinivas2304/Phishing-Domain-Detector/blob/main/Presentation.pptx)
-
 
 ## Output
 
