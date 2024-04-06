@@ -43,7 +43,7 @@ This data set comes under classification problem, as the input URL is classified
 
 4.XGBoost
 
-All these models are trained on the dataset and evaluation of the model is done with the test dataset detection.ipynb
+All these models are trained on the dataset and evaluation of the model is done with the test dataset [detection.ipynb](https://github.com/Ksrinivas2304/Phishing-Domain-Detector/blob/main/detection.ipynb)
 
 ## FrontEnd
 
